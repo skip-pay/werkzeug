@@ -1,10 +1,10 @@
 {
     "name": "werkzeug",
-    "version": "0.31.0",
+    "version": "0.31.1",
     "author": "Lukas Rychtecky <lukas.rychtecky@gmail.com>",
     "repository": {
         "type": "git",
-        "url": "https://github.com/LukasRychtecky/werkzeug.git"
+        "url": "https://github.com/skip-pay/werkzeug.git"
     },
     "devDependencies": {
         "grunt": "~0.4.1",
