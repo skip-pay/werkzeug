@@ -256,7 +256,7 @@ class wzk.ui.grid.BulkChange
     @param {Element} field
   ###
   findSelectedInput: (field) ->
-    return @dom.one('input, select, textarea', field)
+    return @dom.one('input:not(.goog-control), select, textarea', field)
 
   ###*
     @protected
